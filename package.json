@@ -1,6 +1,6 @@
 {
-  "homepage": "http://ched88xtc.github.io/weather-app",
-  "name": "weather-app-tt",
+  "homepage": "http://ched88xtc.github.io",
+  "name": "weather-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
