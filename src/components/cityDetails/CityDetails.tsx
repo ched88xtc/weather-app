@@ -96,7 +96,7 @@ export const CityDetails = (): JSX.Element => {
 	return (
 		<>
 			<Container className={styles.detailsContainer}>
-				<Link to="/">
+				<Link to="/weather-app">
 					<IconButton className={styles.backButton}>
 						<CancelOutlined fontSize="large" aria-label="cancel-btn" />
 					</IconButton>

@@ -26,6 +26,6 @@ describe("CityDetails", () => {
 
 		fireEvent.click(screen.getByLabelText("cancel-btn"));
 
-		expect(window.location.pathname).toBe("/");
+		expect(window.location.pathname).toBe("/weather-app");
 	});
 });

@@ -8,7 +8,7 @@ function App() {
 	return (
 		<div className="App">
 			<Routes>
-				<Route path="/" element={<CityList />} />
+				<Route path="/weather-app/" element={<CityList />} />
 				<Route path="/forecast/:cityName" element={<CityDetails />} />
 			</Routes>
 		</div>
