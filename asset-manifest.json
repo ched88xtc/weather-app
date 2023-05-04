@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/weather-app/static/css/main.32ac7186.css",
-    "main.js": "/weather-app/static/js/main.3fb9eca3.js",
-    "static/js/787.0bae00d4.chunk.js": "/weather-app/static/js/787.0bae00d4.chunk.js",
-    "static/media/pressure.png": "/weather-app/static/media/pressure.fcf930a1940d8a9e83fd.png",
-    "static/media/humidity.png": "/weather-app/static/media/humidity.c8ee914ee96a5293ae25.png",
-    "static/media/visibility.png": "/weather-app/static/media/visibility.44441fa59d6caea97cd0.png",
-    "static/media/precipitation.png": "/weather-app/static/media/precipitation.30ac89dca13b794f91c3.png",
-    "static/media/feels.png": "/weather-app/static/media/feels.5cb49dc182262666a503.png",
-    "static/media/sunrise.png": "/weather-app/static/media/sunrise.0248859f0fe99455222d.png",
-    "static/media/wind.png": "/weather-app/static/media/wind.aac7fbb2f12ebe041948.png",
-    "index.html": "/weather-app/index.html",
-    "main.32ac7186.css.map": "/weather-app/static/css/main.32ac7186.css.map",
-    "main.3fb9eca3.js.map": "/weather-app/static/js/main.3fb9eca3.js.map",
-    "787.0bae00d4.chunk.js.map": "/weather-app/static/js/787.0bae00d4.chunk.js.map"
+    "main.css": "/static/css/main.32ac7186.css",
+    "main.js": "/static/js/main.0a77a371.js",
+    "static/js/787.d9312eb8.chunk.js": "/static/js/787.d9312eb8.chunk.js",
+    "static/media/pressure.png": "/static/media/pressure.fcf930a1940d8a9e83fd.png",
+    "static/media/humidity.png": "/static/media/humidity.c8ee914ee96a5293ae25.png",
+    "static/media/visibility.png": "/static/media/visibility.44441fa59d6caea97cd0.png",
+    "static/media/precipitation.png": "/static/media/precipitation.30ac89dca13b794f91c3.png",
+    "static/media/feels.png": "/static/media/feels.5cb49dc182262666a503.png",
+    "static/media/sunrise.png": "/static/media/sunrise.0248859f0fe99455222d.png",
+    "static/media/wind.png": "/static/media/wind.aac7fbb2f12ebe041948.png",
+    "index.html": "/index.html",
+    "main.32ac7186.css.map": "/static/css/main.32ac7186.css.map",
+    "main.0a77a371.js.map": "/static/js/main.0a77a371.js.map",
+    "787.d9312eb8.chunk.js.map": "/static/js/787.d9312eb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32ac7186.css",
-    "static/js/main.3fb9eca3.js"
+    "static/js/main.0a77a371.js"
   ]
 }
